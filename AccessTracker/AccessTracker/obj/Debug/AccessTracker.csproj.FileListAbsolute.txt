@@ -1,0 +1,7 @@
+C:\Users\Rob\DEV\AccessTracker\AccessTracker\bin\Debug\AccessTracker.exe.config
+C:\Users\Rob\DEV\AccessTracker\AccessTracker\bin\Debug\AccessTracker.exe
+C:\Users\Rob\DEV\AccessTracker\AccessTracker\bin\Debug\AccessTracker.pdb
+C:\Users\Rob\DEV\AccessTracker\AccessTracker\obj\Debug\AccessTracker.csprojAssemblyReference.cache
+C:\Users\Rob\DEV\AccessTracker\AccessTracker\obj\Debug\AccessTracker.csproj.CoreCompileInputs.cache
+C:\Users\Rob\DEV\AccessTracker\AccessTracker\obj\Debug\AccessTracker.exe
+C:\Users\Rob\DEV\AccessTracker\AccessTracker\obj\Debug\AccessTracker.pdb
